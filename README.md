@@ -1,8 +1,8 @@
 # 😎 Awesome lists about all things related to #Spring4Shell #SpringShell
 
 ## Spring Project
-* [Official Spring project post](https://spring.io/blog/2022/03/29/cve-report-published-for-spring-cloud-function)
-* [Official Spring project post](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
+* [Official Spring project on published CVE](https://spring.io/blog/2022/03/29/cve-report-published-for-spring-cloud-function)
+* [Official Spring Early Announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
 
 ## Cloudflare
 * [WAF mitigations for Spring4Shell ](https://blog.cloudflare.com/waf-mitigations-sping4shell/)

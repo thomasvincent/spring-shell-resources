@@ -22,6 +22,7 @@
 
 ## Snyk
 * [Twitter response] (https://twitter.com/snyksec/status/1509427521347072004)
+* [Blog] (https://snyk.io/blog/is-there-such-a-thing-as-spring4shell/?utm_campaign=Spring4Shell-2022&utm_medium=Social&utm_source=Twitter-Organic&utm_content=is-there-such-a-thing-as-spring4shell)
 
 ## Cyberkendra
 * [SpringShell: Spring Core RCE 0-day Vulnerability](https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html?m=1)

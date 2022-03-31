@@ -1,5 +1,7 @@
 # 😎 Awesome lists about all things related to #Spring4Shell #SpringShell
 
+### Spring Framework prior to versions 5.2.20 and 5.3.18 contains a remote code execution vulnerability known as Spring4Shell
+
 ## Spring Project
 * [Official Spring project on published CVE](https://spring.io/blog/2022/03/29/cve-report-published-for-spring-cloud-function)
 * [Official Spring Early Announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)

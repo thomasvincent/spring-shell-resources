@@ -6,11 +6,8 @@
 * [Official Spring project on published CVE](https://spring.io/blog/2022/03/29/cve-report-published-for-spring-cloud-function)
 * [Official Spring Early Announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
 
-## Image Vulnerabitlity database
-* {Atomist Image Vulnerability Database)[https://dso.atomist.com/cve/CVE-2022-22965]
-
-## Cloudflare
-* [WAF mitigations for Spring4Shell ](https://blog.cloudflare.com/waf-mitigations-sping4shell/)
+## Image Vulnerabitlity Database
+* [Atomist Image Vulnerability Database](https://dso.atomist.com/cve/CVE-2022-22965)
 
 ## CERT 
 * [VU#970766 Spring Framework insecurely handles PropertyDescriptor objects with data binding](https://www.kb.cert.org/vuls/id/970766)
@@ -24,6 +21,9 @@
 ## VMware
 * [official VMware post - CVE-2022-22947: Spring Cloud Gateway Code Injection Vulnerability ](https://tanzu.vmware.com/security/cve-2022-22947)
 * [official VMware post - CVE-2022-22947: Spring Cloud Gateway Code Injection Vulnerability](https://tanzu.vmware.com/security/cve-2022-22947)
+
+## Cloudflare
+* [WAF mitigations for Spring4Shell ](https://blog.cloudflare.com/waf-mitigations-sping4shell/)
 
 ## Snyk
 * [Twitter response] (https://twitter.com/snyksec/status/1509427521347072004)

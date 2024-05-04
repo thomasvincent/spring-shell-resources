@@ -1,4 +1,3 @@
-```markdown
 # Awesome Lists: #Spring4Shell #SpringShell
 
 😎 Awesome lists about all things related to #Spring4Shell #SpringShell
@@ -70,4 +69,3 @@ A Spring MVC or Spring WebFlux application running on JDK 9+ may be vulnerable t
   * [Spring4Shell Vulnerability Protection](https://www.paloaltonetworks.com/blog/prisma-cloud/spring4shell-vulnerability-protection/)
 * Trend Micro
   * [Analyzing the Exploitation of Spring4Shell Vulnerability in Weaponizing and Executing the Mirai Botnet Malware](https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html)
-```

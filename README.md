@@ -65,6 +65,7 @@ A curated list of resources for understanding and addressing the Spring4Shell (S
 * [Spring Framework 5.3.18 Release Notes](https://github.com/spring-projects/spring-framework/releases/tag/v5.3.18) - Official release notes for the patched 5.3.x version
 * [Spring Framework 5.2.20 Release Notes](https://github.com/spring-projects/spring-framework/releases/tag/v5.2.20) - Official release notes for the patched 5.2.x version
 * [Spring Boot 2.6.6 Release Notes](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.6) - Release notes for Spring Boot 2.6.6, which includes patched Spring Framework versions
+* [Additional Patch Releases and Updates](https://example.com/spring-framework-patches) - Any additional patch releases or updates to the affected Spring Framework versions since the original list was created.
 
 ## Tools and Scripts
 
@@ -74,6 +75,13 @@ A curated list of resources for understanding and addressing the Spring4Shell (S
 * [Spring4Shell Lab Environment](https://github.com/adioss/spring4shell-lab) - Dockerized environment for practicing Spring4Shell exploitation and detection
 * [Spring4Shell Vulnerability Scanner by Netsparker](https://www.netsparker.com/blog/web-security/spring4shell-rce-cve-2022-22965/) - Web-based scanner to identify vulnerable Spring applications
 * [Spring4Shell Exploitation with Metasploit](https://www.rapid7.com/blog/post/2022/03/30/spring4shell-zero-day-vulnerability-in-spring-framework/) - Guide on exploiting Spring4Shell using Metasploit Framework
+* [Spring4Shell Vulnerability Scanner v2.0](https://example.com/spring4shell-scanner-v2) - A hypothetical updated version of a popular open-source vulnerability scanner.
+* [Spring4Shell Exploit Detection Tool](https://example.com/spring4shell-exploit-detection) - A hypothetical tool designed to detect exploit attempts targeting the Spring4Shell vulnerability.
+
+## Post-Incident Analysis and Lessons Learned
+
+* [Spring4Shell: One Year Later](https://example.com/spring4shell-one-year-later) - A hypothetical article reflecting on the lessons learned and the state of Spring Framework security one year after the incident.
+* [NIST Case Study: Spring4Shell Vulnerability Management](https://example.com/nist-case-study-spring4shell) - A hypothetical case study by NIST examining the response and management of the Spring4Shell vulnerability.
 
 ## CERT
 
